@@ -1,4 +1,5 @@
 Title: Exploring the Timeless Legacy of BMW
+![BMW_LOGO](C:\Users\bpcne\GITTO\MOE350\BMW.svg.webp)
 BMW, a globally renowned automotive brand, stands tall as an emblem of luxury, performance, and technological innovation. Since its inception over a century ago, BMW has etched an enduring legacy in the automotive industry, epitomizing precision engineering and delivering unparalleled driving experiences.
 
 A Brief Historical Journey
