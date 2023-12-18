@@ -2,6 +2,9 @@ Unveiling the Powerhouses: The Strongest BMW Cars
 BMW, recognized for its precision engineering and performance-oriented vehicles, has produced several models that stand out as powerhouses in the automotive realm. These cars blend cutting-edge technology, high-performance engines, and aerodynamic designs, delivering exhilarating driving experiences. Let's delve into some of the strongest BMW cars that have captivated enthusiasts worldwide:
 
 1. **BMW M5 Competition:**
+
+[**Here is a video of a BMW M5 F90 Competition Accerleration:**](https://youtu.be/bnyZKZo_xmE?si=j10vS5qpdCcS9vF6)
+
 ![BMW M5 Competition](BMW_images/BMW-M5-Competition.jpg)
 
 The BMW M5 Competition is a pinnacle of performance, combining luxury with extraordinary power. Fitted with a 4.4-liter twin-turbocharged V8 engine, it produces a remarkable 617 horsepower, enabling a blistering 0-60 mph acceleration in just 3.1 seconds. This sedan's refined interior, advanced technology, and dynamic driving capabilities make it a compelling choice for those seeking ultimate performance and luxury in a four-door car.
