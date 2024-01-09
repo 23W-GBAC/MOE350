@@ -1,3 +1,4 @@
+![GIF Description](/Users/mohammadelmasri/Desktop/MOE350/Images/200w.webp)
 Most Powerful German Cars: A Repository for Car Enthusiasts 🇩🇪🚗💨
 Welcome to my repository showcasing the most potent cars from prominent German automotive brands! Explore the sheer power, precision, and performance of high-performance vehicles crafted by these renowned manufacturers.
 

@@ -15,7 +15,6 @@ def resize_images_in_folder(folder_path, new_size=(300, 200)):
         resized_image.save(new_file_path)
         print(f"Resized image saved as {new_filename}")
 
-# Get user input for folder path
 folder_path = input("Enter the path to the folder containing your images: ")
 
 # Get user input for new image size
