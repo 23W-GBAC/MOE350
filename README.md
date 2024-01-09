@@ -1,4 +1,6 @@
-![Example GIF](/Images/MasterPiece.gif)
+![BMW](/Images/MasterPiece.gif)  
+
+
 Most Powerful German Cars: A Repository for Car Enthusiasts 🇩🇪🚗💨
 Welcome to my repository showcasing the most potent cars from prominent German automotive brands! Explore the sheer power, precision, and performance of high-performance vehicles crafted by these renowned manufacturers.
 
