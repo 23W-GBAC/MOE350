@@ -3,9 +3,9 @@
 ## Live Demo
 Check here is my live demo [LIVE DEMO](https://23w-gbac.github.io/MOE350/).
 
+![](Colored_Images/PHOTO/German_Cars.jpg)
 
 
-<img src="GIf/MasterPiece.gif" alt="BMW" width="100%">
 
 
 
