@@ -1,6 +1,6 @@
 # 🏎️ Most Powerful German Cars: A Repository for Car Enthusiasts 
 
-<img src="Colored_Images/GIf/MasterPiece.gif" alt="BMW" width="100%">
+<img src="GIf/MasterPiece.gif" alt="BMW" width="100%">
 
 
 
