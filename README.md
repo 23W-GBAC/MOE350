@@ -11,7 +11,6 @@
 
 ### Welcome to my repository showcasing the **MOST POTENT** cars from prominent German automotive brands! 🚗💨 Explore the sheer power, precision, and performance of high-performance vehicles crafted by these renowned manufacturers.
 
-#  ----------------------------------------------------------------
 
 ## The Powerhouses: The Strongest [👉BMW👈](Cars_Brands/BMW.md) Cars
 [Table performance metrics of BMW Cars](Cars_Brands/BMW.md)
