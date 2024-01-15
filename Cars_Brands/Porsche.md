@@ -4,14 +4,14 @@ Porsche, renowned for its precision engineering and iconic sports cars, has crea
 
 1. **Porsche 911 Turbo S:**
 
-![Porsche 911 Turbo S](/Colored_Images/porsche_panamera_911_turbo_s.jpg)
+![Porsche 911 Turbo S](./../Colored_Images/porsche_panamera_911_turbo_s.jpg)
 
    The Porsche 911 Turbo S epitomizes performance and luxury. Equipped with a robust 3.8-liter twin-turbocharged flat-six engine, it generates an astonishing 640 horsepower, achieving a rapid 0-60 mph acceleration in just 2.6 seconds. Its refined interior, cutting-edge technology, and track-ready capabilities make it a compelling choice for those seeking ultimate performance in a sports car.
 
 
 2. **Porsche Taycan Turbo S:**
 
-   ![Porsche Taycan Turbo S](/Colored_Images/Porsche_Panamera_Taycan_Turbo_s.jpg)
+   ![Porsche Taycan Turbo S](./../Colored_Images/Porsche_Panamera_Taycan_Turbo_s.jpg)
 
    The Porsche Taycan Turbo S represents Porsche's foray into the electric vehicle realm without compromising on performance. Featuring dual electric motors producing up to 750 horsepower, it accelerates from 0 to 60 mph in approximately 2.4 seconds. With its futuristic design and cutting-edge technology, the Taycan Turbo S sets new standards for electric performance cars.
 
@@ -19,14 +19,14 @@ Porsche, renowned for its precision engineering and iconic sports cars, has crea
 
 3. **Porsche Panamera Turbo S E-Hybrid:**
 
-![Porsche Panamera Turbo S E-Hybrid](/Colored_Images/Porsche_Panamera_se_Hybrid.jpg)
+![Porsche Panamera Turbo S E-Hybrid](./../Colored_Images/Porsche_Panamera_se_Hybrid.jpg)
 
    The Porsche Panamera Turbo S E-Hybrid combines electrification with high-performance. Fitted with a potent hybrid powertrain delivering 680 horsepower, it offers exhilarating acceleration while providing eco-friendly driving modes. Its luxurious interior and advanced technology redefine the concept of a high-performance luxury sedan.
 
 
 4. **Porsche Cayenne Turbo S E-Hybrid:**
 
-   ![Porsche Cayenne Turbo S E-Hybrid](/Colored_Images/Porsche_Cayenne_Turbo_S_E.jpg)
+   ![Porsche Cayenne Turbo S E-Hybrid](./../Colored_Images/Porsche_Cayenne_Turbo_S_E.jpg)
    
 
    The Porsche Cayenne Turbo S E-Hybrid blends exceptional performance with SUV versatility. Sporting a hybrid powertrain producing 670 horsepower, it accelerates from 0 to 60 mph in around 3.6 seconds. With its commanding presence, luxurious cabin, and impressive performance, it sets new standards for high-performance SUVs.

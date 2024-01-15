@@ -5,31 +5,31 @@ BMW, recognized for its precision engineering and performance-oriented vehicles,
 
 [**Here is a video of a BMW M5 F90 Competition Accerleration**](https://youtu.be/bnyZKZo_xmE?si=j10vS5qpdCcS9vF6)
 
-![BMW M5 Competition](https://23w-gbac.github.io/MOE350/Colored_Images/BMW_M5_Comp.jpg)
+![BMW M5 Competition](./../Colored_Images/BMW_M5_Comp.jpg)
 
 The BMW M5 Competition is a pinnacle of performance, combining luxury with extraordinary power. Fitted with a 4.4-liter twin-turbocharged V8 engine, it produces a remarkable 617 horsepower, enabling a blistering 0-60 mph acceleration in just 3.1 seconds. This sedan's refined interior, advanced technology, and dynamic driving capabilities make it a compelling choice for those seeking ultimate performance and luxury in a four-door car.
 
 2. **BMW M8 Competition:**
 
-![BMW M8 Competition](/Colored_Images/BMW-m8-Comp.jpg)
+![BMW M8 Competition](./../Colored_Images/BMW-m8-Comp.jpg)
 
 The BMW M8 Competition series encompasses the M8 Coupe, M8 Gran Coupe, and M8 Convertible, all showcasing breathtaking power and style. Equipped with a 4.4-liter V8 engine, these vehicles churn out up to 617 horsepower, propelling them from 0 to 60 mph in a mere 3 seconds. With a perfect blend of opulence and track-ready performance, the M8 lineup represents the epitome of BMW's engineering prowess.
 
 3. **BMW X5 M and X6 M:**
 
-![BMW X5 M ](/Colored_Images/BMW_X5_M.webp)
+![BMW X5 M ](./../Colored_Images/BMW_X5_M.webp)
 
 The BMW X5 M models redefine the concept of SUVs with their incredible power and agility. Packing a 4.4-liter V8 engine producing 600+ horsepower, these high-performance SUVs accelerate from 0 to 60 mph in around 3.8 seconds. With sport-tuned suspensions and advanced all-wheel drive systems, they offer an exhilarating driving experience while maintaining the versatility of an SUV.
 
 4. **BMW M4 Competition:**
 
-![BMW M4 Competition](/Colored_Images/BMW_M4_Comp.jpg)
+![BMW M4 Competition](./../Colored_Images/BMW_M4_Comp.jpg)
 
 The BMW M4 Competition Coupe and Convertible models exemplify raw power combined with exceptional handling. Their 3.0-liter twin-turbocharged inline-6 engine generates up to 503 horsepower, enabling lightning-fast acceleration and precise handling capabilities. These models are revered for their track performance, aerodynamic design, and driver-focused features, making them a favorite among enthusiasts.
 
 5. **BMW M2 Competition:**
 
-![BMW M2 Competition](/Colored_Images/BMW_M2_Comp.jpg)
+![BMW M2 Competition](./../Colored_Images/BMW_M2_Comp.jpg)
 
 The BMW M2 Competition, despite being smaller in size, doesn't compromise on performance. With a 3.0-liter inline-6 engine producing 405 horsepower, this compact sports car accelerates from 0 to 60 mph in just over 4 seconds. Its nimble handling, aggressive styling, and driver-centric design make it a thrilling choice for driving enthusiasts seeking an engaging and powerful driving experience.
 
