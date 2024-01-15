@@ -2,11 +2,11 @@
 
 | Model                          | Top Speed (mph) | Horsepower | Acceleration (0-60 mph) | Fuel Efficiency (mpg) |
 |--------------------------------|-----------------|------------|-------------------------|-----------------------|
-| Mercedes-AMG GT Black Series   | 202             | 720        | 3.1 seconds             | 15                    |
+| Mercedes-AMG GT     | 202             | 720        | 3.1 seconds             | 15                    |
 | Mercedes-AMG E63 S Sedan       | 186             | 603        | 3.3 seconds             | 21                    |
 | Mercedes-AMG C63 S Coupe       | 180             | 503        | 3.8 seconds             | 19                    |
 | Mercedes-AMG G63               | 149             | 577        | 4.5 seconds             | 14                    |
-| Mercedes-AMG A45 S             | 168             | 415        | 3.9 seconds             | 26                    |
+
 
 **Model: The specific model or name of the car.**
 

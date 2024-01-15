@@ -5,7 +5,6 @@
 | BMW M5 Competition | 190             | 617        | 3.1 seconds             | 17                    |
 | BMW M8 Competition | 190             | 617        | 3.0 seconds             | 15                    |
 | BMW X5 M           | 177             | 600        | 3.8 seconds             | 16                    |
-| BMW X6 M           | 177             | 600        | 3.8 seconds             | 16                    |
 | BMW M4 Competition | 180             | 503        | 3.8 seconds             | 18                    |
 | BMW M2 Competition | 155             | 405        | 4.0 seconds             | 20                    |
 
