@@ -11,7 +11,7 @@ Audi, renowned for its engineering precision and performance-oriented vehicles, 
 
 2. **Audi R8 V10 Performance:**
 
-![Audi R8 V10 Performance](../Colored_Images/audi_r8_v10.jpg)
+![Audi R8 V10 Performance](/../Colored_Images/audi_r8_v10.jpg)
 
    The Audi R8 V10 Performance represents Audi's supercar prowess. Powered by a 5.2-liter naturally aspirated V10 engine, it delivers an astounding 602 horsepower, achieving 0-60 mph in around 3 seconds. With its striking design, cutting-edge performance, and driver-focused features, the R8 V10 Performance offers an exhilarating driving experience.
 
