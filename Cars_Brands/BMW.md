@@ -5,7 +5,7 @@ BMW, recognized for its precision engineering and performance-oriented vehicles,
 
 [**Here is a video of a BMW M5 F90 Competition Accerleration**](https://youtu.be/bnyZKZo_xmE?si=j10vS5qpdCcS9vF6)
 
-![BMW M5 Competition](https://23w-gbac.github.io/MOE350/Colored_Images/BMW_M5_Comp.jpg)
+![BMW M5 Competition](/Colored_Images/BMW_M5_Comp.jpg)
 
 The BMW M5 Competition is a pinnacle of performance, combining luxury with extraordinary power. Fitted with a 4.4-liter twin-turbocharged V8 engine, it produces a remarkable 617 horsepower, enabling a blistering 0-60 mph acceleration in just 3.1 seconds. This sedan's refined interior, advanced technology, and dynamic driving capabilities make it a compelling choice for those seeking ultimate performance and luxury in a four-door car.
 

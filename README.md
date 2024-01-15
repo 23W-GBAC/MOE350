@@ -2,7 +2,7 @@
 
 ### Welcome to my repository showcasing the **MOST POTENT** cars from prominent German automotive brands! 🚗💨 Explore the sheer power, precision, and performance of high-performance vehicles crafted by these renowned manufacturers.
 
-## The Powerhouses: The Strongest [👉BMW👈](Cars_Brands/BMW.md) Cars
+## The Powerhouses: The Strongest [👉BMW👈](https://github.com/23W-GBAC/MOE350/blob/main/Cars_Brands/BMW.md) Cars
 
 Discover the epitome of automotive excellence with BMW's powerhouse lineup, where precision engineering and high-performance converge to redefine driving experiences. From luxurious sedans to dynamic SUVs, BMW's strongest models seamlessly integrate cutting-edge technology, potent engines, and aerodynamic designs. Join us on a journey through some of the most captivating BMW cars that have left an indelible mark on enthusiasts worldwide
 
