@@ -1,7 +1,7 @@
 # Automation:
 Before we start i would like to show you my work:
 
-here are some examples of what my code do:
+Here are some examples of what my code do:
 
 ### original BMW M4 Competition photo from colored to B&W:
 <img src="./../Colored_Images/BMW_M4_Comp.jpg" alt="BMW M4 Competition photo" width="300" />

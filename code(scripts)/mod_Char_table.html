@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Information Table</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th,
+        td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+    </style>
+    <script>
+        function sortTable(columnIndex) {
+            var table, rows, switching, i, x, y, shouldSwitch;
+            table = document.getElementById("carTable");
+            switching = true;
+            while (switching) {
+                switching = false;
+                rows = table.rows;
+                for (i = 1; i < (rows.length - 1); i++) {
+                    shouldSwitch = false;
+                    x = rows[i].getElementsByTagName("td")[columnIndex];
+                    y = rows[i + 1].getElementsByTagName("td")[columnIndex];
+                    if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+                        shouldSwitch = true;
+                        break;
+                    }
+                }
+                if (shouldSwitch) {
+                    rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                    switching = true;
+                }
+            }
+        }
+    </script>
+</head>
+
+<body>
+
+    <h2>Car Information Table</h2>
+
+    <table id="carTable">
+        <thead>
+            <tr>
+                <th onclick="sortTable(0)">Vendor</th>
+                <th onclick="sortTable(1)">Model</th>
+                <th onclick="sortTable(2)">Top Speed (mph)</th>
+                <th onclick="sortTable(3)">Horsepower</th>
+                <th onclick="sortTable(4)">Acceleration (0-60 mph)</th>
+                <th onclick="sortTable(5)">Fuel Efficiency (mpg)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Audi Cars -->
+            <tr>
+                <td>Audi</td>
+                <td>RS7 Sportback</td>
+                <td>190</td>
+                <td>591</td>
+                <td>3.5 seconds</td>
+                <td>18</td>
+            </tr>
+            <tr>
+                <td>Audi</td>
+                <td>R8 V10 Performance</td>
+                <td>205</td>
+                <td>611</td>
+                <td>3.2 seconds</td>
+                <td>17</td>
+            </tr>
+            <tr>
+                <td>Audi</td>
+                <td>RS6 Avant</td>
+                <td>190</td>
+                <td>591</td>
+                <td>3.5 seconds</td>
+                <td>20</td>
+            </tr>
+            <tr>
+                <td>Audi</td>
+                <td>SQ5</td>
+                <td>155</td>
+                <td>349</td>
+                <td>5.1 seconds</td>
+                <td>21</td>
+            </tr>
+
+            <!-- BMW Cars -->
+            <tr>
+                <td>BMW</td>
+                <td>M5 Competition</td>
+                <td>190</td>
+                <td>617</td>
+                <td>3.1 seconds</td>
+                <td>17</td>
+            </tr>
+            <tr>
+                <td>BMW</td>
+                <td>M8 Competition</td>
+                <td>190</td>
+                <td>617</td>
+                <td>3.0 seconds</td>
+                <td>15</td>
+            </tr>
+            <tr>
+                <td>BMW</td>
+                <td>X5 M</td>
+                <td>177</td>
+                <td>600</td>
+                <td>3.8 seconds</td>
+                <td>16</td>
+            </tr>
+            <tr>
+                <td>BMW</td>
+                <td>M4 Competition</td>
+                <td>180</td>
+                <td>503</td>
+                <td>3.8 seconds</td>
+                <td>18</td>
+            </tr>
+            <tr>
+                <td>BMW</td>
+                <td>M2 Competition</td>
+                <td>155</td>
+                <td>405</td>
+                <td>4.0 seconds</td>
+                <td>20</td>
+            </tr>
+
+            <!-- Mercedes-AMG Cars -->
+            <tr>
+                <td>Mercedes-AMG</td>
+                <td>GT</td>
+                <td>202</td>
+                <td>720</td>
+                <td>3.1 seconds</td>
+                <td>15</td>
+            </tr>
+            <tr>
+                <td>Mercedes-AMG</td>
+                <td>E63 S Sedan</td>
+                <td>186</td>
+                <td>603</td>
+                <td>3.3 seconds</td>
+                <td>21</td>
+            </tr>
+            <tr>
+                <td>Mercedes-AMG</td>
+                <td>C63 S Coupe</td>
+                <td>180</td>
+                <td>503</td>
+                <td>3.8 seconds</td>
+                <td>19</td>
+            </tr>
+            <tr>
+                <td>Mercedes-AMG</td>
+                <td>G63</td>
+                <td>149</td>
+                <td>577</td>
+                <td>4.5 seconds</td>
+                <td>14</td>
+            </tr>
+
+            <!-- Porsche Cars -->
+            <tr>
+                <td>Porsche</td>
+                <td>911 Turbo S</td>
+                <td>205</td>
+                <td>640</td>
+                <td>2.6 seconds</td>
+                <td>21</td>
+            </tr>
+            <tr>
+                <td>Porsche</td>
+                <td>Taycan Turbo S</td>
+                <td>161</td>
+                <td>750</td>
+                <td>2.4 seconds</td>
+                <td>69</td>
+            </tr>
+            <tr>
+                <td>Porsche</td>
+                <td>Panamera Turbo S E-Hybrid</td>
+                <td>192</td>
+                <td>689</td>
+                <td>3.2 seconds</td>
+                <td>48</td>
+            </tr>
+            <tr>
+                <td>Porsche</td>
+                <td>Cayenne Turbo S E-Hybrid</td>
+                <td>183</td>
+                <td>670</td>
+                <td>3.6 seconds</td>
+                <td>46</td>
+            </tr>
+            <!-- Add more rows as needed -->
+        </tbody>
+    </table>
+
+
+</body>
+
+</html>
