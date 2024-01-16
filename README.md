@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @mohammadmasry
 ### 👀 I’m interested in German Made Cars
-### 💞️ Open to collaborations on innovative projects related to German cars! Excited to contribute skills in data analytics, technology, and more. Let's create something great together!
+### 💞️ Open to collaborations on innovative projects related to German cars! 
 ### 📫 How to reach me: moe.al.my@gmail 
 
 # 🏎️ Most Powerful German Cars: A Repository for Car Enthusiasts 
