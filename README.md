@@ -7,7 +7,10 @@
 
 # Car Information Table
 
-## For a live demo, you can check out the [Car Information Table](https://23w-gbac.github.io/MOE350/).
+## For a live demo, you can check out the [Car Information Table](https://23w-gbac.github.io/MOE350/code(scripts)/Char_tables.html).
+
+## For a live demo, you can check out the [Modified Car Information Table](https://23w-gbac.github.io/MOE350/code(scripts)/mod_Char_table.html).
+
 
 ## Table of Contents
 ...
