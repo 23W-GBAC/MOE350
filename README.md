@@ -12,7 +12,7 @@
 ## For a live demo, you can check out the [Modified Car Information Table](https://23w-gbac.github.io/MOE350/code(scripts)/mod_Char_table.html).
 
 
-## Table of Contents
+## Table of Contents!
 ...
 
 
