@@ -1,19 +1,13 @@
 ### 👋 Hi, I’m @mohammadmasry
 ### 👀 I’m interested in German Made Cars
 ### 💞️ Open to collaborations on innovative projects related to German cars! 
-### 📫 How to reach me: moe.al.my@gmail 
+### 📫 How to reach me: moe.al.my@gmail.com
 
 # 🏎️ Most Powerful German Cars: A Repository for Car Enthusiasts 
 
 # Car Information Table
 
-## For a live demo, you can check out the [Car Information Table](https://23w-gbac.github.io/MOE350/code(scripts)/Char_tables.html).
-
-## For a live demo, you can check out the [Modified Car Information Table](https://23w-gbac.github.io/MOE350/code(scripts)/mod_Char_table.html).
-
-
-## Table of Contents!
-...
+## For a live demo of car charectaristics, you can check out  [this Car Information Table](https://23w-gbac.github.io/MOE350/code(scripts)/Char_tables.html). or [this one](https://23w-gbac.github.io/MOE350/code(scripts)/mod_Char_table.html).
 
 
 ![](Colored_Images/PHOTO/German_Cars.jpg)
@@ -23,24 +17,24 @@
 ### Welcome to my repository showcasing the **MOST POTENT** cars from prominent German automotive brands! 🚗💨 Explore the sheer power, precision, and performance of high-performance vehicles crafted by these renowned manufacturers.
 
 
-## The Powerhouses: The Strongest [👉BMW👈](Cars_Brands/BMW.md) Cars
+## The Strongest [👉BMW👈](Cars_Brands/BMW.md) Cars
 [Table performance metrics of BMW Cars](Cars_Characteristics/bmw_car_characteristics.md)
 
 Discover the epitome of automotive excellence with the BMW powerhouse lineup, where precision engineering and high-performance converge to redefine driving experiences. From luxurious sedans to dynamic SUVs, BMW's strongest models seamlessly integrate cutting-edge technology, potent engines, and aerodynamic designs. Join us on a journey through some of the most captivating BMW cars that have left an indelible mark on enthusiasts worldwide
 
-## The Powerhouses: The Strongest [👉AUDI👈](Cars_Brands/Audi.md) Cars
+## The Strongest [👉AUDI👈](Cars_Brands/Audi.md) Cars
 [Table of performance metrics of AUDI Cars](Cars_Characteristics/Audi_car_charectaristics.md)
 
 Explore the world of Audi's powerhouse vehicles in this detailed overview. Renowned for precision engineering and performance-driven designs, Audi's strongest models seamlessly blend cutting-edge technology, high-performance engines, and sophisticated aesthetics. From the sleek Audi RS7 Sportback to the iconic R8 V10 Performance and the versatile Audi SQ5, each car offers a unique combination of power, refinement, and driving pleasure. Dive into this captivating showcase of Audi's high-performance lineup and discover the fusion of elegance and raw automotive power.
 
 
 
-## The Powerhouses: The Strongest [👉MERCEDES-AMG👈](Cars_Brands/Mercedes.md) Cars
+## The Strongest [👉MERCEDES-AMG👈](Cars_Brands/Mercedes.md) Cars
 [Table of performance metrics of MERCEDES_AMG Cars](Cars_Characteristics/Mercedes_car_characteristics.md)
 
 Embark on a journey through the pinnacle of automotive engineering with Mercedes-AMG's powerhouse lineup. Renowned for seamlessly merging high-performance with luxury, these vehicles embody the epitome of precision, power, and sophistication. Let's explore some of the formidable Mercedes-AMG cars that have captivated enthusiasts worldwide
 
-## The Powerhouses: The Strongest [👉PORSCHE👈](Cars_Brands/Porsche.md) Cars
+## The Strongest [👉PORSCHE👈](Cars_Brands/Porsche.md) Cars
 [Table of performance metrics of PORSCHE Cars](Cars_Characteristics/Porsche_car_charactaristics.md)
 
 
