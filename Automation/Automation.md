@@ -29,88 +29,78 @@ I encountered a challenge with my collection of colored images — they simply w
 
 ### Code Explanation:
 
-```python
-from PIL import Image
-import os
-```
+ Let me explain the code step by step:
 
-- **PIL (Python Imaging Library):**
-  - The `from PIL import Image` statement imports the Image module from the PIL library for image processing.
+1. **Importing Necessary Modules:**
+    ```python
+    from PIL import Image
+    import os
+    import time
+    from watchdog.observers import Observer
+    from watchdog.events import FileSystemEventHandler
+    ```
+   - `PIL`: This is the Python Imaging Library that provides the `Image` class for handling images.
+   - `os`: This module provides a way to interact with the operating system, like working with file paths and directories.
+   - `time`: This module is used for adding a short delay to the script.
+   - `watchdog`: This library is used for monitoring file system events.
 
-- **OS Module:**
-  - `import os` allows interaction with the operating system, enabling tasks like file and directory manipulation.
+2. **Defining a FileSystemEventHandler:**
+    ```python
+    class ImageHandler(FileSystemEventHandler):
+        def on_created(self, event):
+            if event.is_directory:
+                return
+            input_path = event.src_path
+            filename = os.path.basename(input_path)
+            if filename.lower().endswith(('.jpg', '.jpeg', '.png')):
+                output_directory = 'Gray_Images'
+                output_path = os.path.join(output_directory, f"bw_{filename}")
+                convert_to_black_and_white(input_path, output_path)
+    ```
+   - This class inherits from `FileSystemEventHandler`, which provides methods for handling file system events.
+   - The `on_created` method is called when a new file is created.
+   - It checks if the event is related to a directory, and if not, it extracts the input file path and filename.
+   - If the file has a supported image extension (JPEG or PNG), it defines the output path for the black and white version and calls `convert_to_black_and_white`.
 
-```python
-def convert_to_black_and_white(input_path, output_path):
-    try:
-        img = Image.open(input_path)
+3. **Defining the Conversion Function:**
+    ```python
+    def convert_to_black_and_white(input_path, output_path):
+        try:
+            img = Image.open(input_path)
+            bw_img = img.convert("L")
+            bw_img.save(output_path)
+            print(f"Image converted to black and white: {output_path}")
+        except Exception as e:
+            print(f"Error processing {input_path}: {e}")
+    ```
+   - This function takes an input image file path and an output file path.
+   - It opens the input image, converts it to black and white using the `"L"` mode, and saves the result.
+   - Any exceptions during this process are caught, and an error message is printed.
 
-        # Convert the image to grayscale (black and white)
-        bw_img = img.convert("L")
+4. **Main Execution Block:**
+    ```python
+    if __name__ == "__main__":
+        input_directory = 'Colored_Images'
+        output_directory = 'Gray_Images'
 
-        # Save the black and white image
-        bw_img.save(output_path)
-        print(f"Image converted to black and white: {output_path}")
-    except Exception as e:
-        print(f"Error processing {input_path}: {e}")
-```
+        os.makedirs(output_directory, exist_ok=True)
 
-- **Convert to Black and White Function:**
-  - `convert_to_black_and_white` is a function that takes two parameters: `input_path` (the path to the original colored image) and `output_path` (where the black and white image will be saved).
+        event_handler = ImageHandler()
+        observer = Observer()
+        observer.schedule(event_handler, path=input_directory, recursive=False)
+        observer.start()
 
-  - Inside the function, the code:
-    - Opens the image using `Image.open`.
-    - Converts the image to grayscale (black and white) using `img.convert("L")`.
-    - Saves the black and white image with `bw_img.save`.
-    - Prints a message indicating the successful conversion.
+        try:
+            while True:
+                time.sleep(1)
+        except KeyboardInterrupt:
+            observer.stop()
+        observer.join()
+    ```
+   - The main block of the script sets up the input and output directories.
+   - It creates the `ImageHandler` and `Observer` instances.
+   - The observer is configured to watch the `input_directory` for file creation events (recursive=False means it won't look into subdirectories).
+   - The observer is started, and the script enters a loop where it sleeps for 1 second, allowing it to continuously monitor for new files.
+   - If the script is interrupted by a keyboard interrupt (Ctrl+C), it stops the observer and joins the thread.
 
-  - Exception handling is implemented to catch any errors during image processing.
-
-```python
-if __name__ == "__main__":
-    input_directory = 'path/to/your/colored/images/'
-    output_directory = 'path/to/save/black_and_white/images/'
-
-    os.makedirs(output_directory, exist_ok=True)
-
-    for filename in os.listdir(input_directory):
-        if filename.lower().endswith(('.jpg', '.jpeg', '.png')):
-            input_path = os.path.join(input_directory, filename)
-            output_path = os.path.join(output_directory, f"bw_{filename}")
-
-            convert_to_black_and_white(input_path, output_path)
-```
-
-- **Main Execution:**
-  - The `__main__` block checks if the script is being run directly.
-  - It defines the input directory (containing colored images) and the output directory (where black and white images will be saved).
-  - A loop iterates through files in the input directory with specified extensions.
-  - For each eligible file, it constructs input and output paths and calls the `convert_to_black_and_white` function.
-  
-  ![Example Image](./../code(scripts)/Screenshot.png)
-  
-### Requirements:
-
-1. **Pillow Library:**
-   - You need to install the Pillow library. You can do this using the following command:
-     ```bash
-     pip install Pillow
-     ```
-
-2. **Images Directory:**
-   - Ensure that you have a directory containing the colored images you want to convert to black and white.
-
-3. **Output Directory:**
-   - Define the directory where you want to save the black and white images.
-
-4. **Python Environment:**
-   - Make sure you have a Python environment set up on your machine.
-
-### Usage:
-
-- Run the script, and it will process colored images in the specified input directory, convert them to black and white, and save the results in the output directory.
-
-Remember to adapt the paths according to your specific requirements.
-
-Feel free to ask if you have any further questions or need additional clarification on any part!    
-
+In summary, this script continuously monitors the `Colored_Images` directory for new image files and converts them to black and white, saving the results in the `Gray_Images` directory. The monitoring is done using the `watchdog` library, and the script runs until manually interrupted.
