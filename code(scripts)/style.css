@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header, .main-section, .car-characteristics, .contributions, .automation {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+}
