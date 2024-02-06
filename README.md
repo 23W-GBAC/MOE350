@@ -7,14 +7,14 @@
 
 # Car Information Table
 
-## For a live demo of car charectaristics, you can check out  [this Car Information Table](https://23w-gbac.github.io/MOE350/code(scripts)/Char_tables.html). or [this one](https://23w-gbac.github.io/MOE350/code(scripts)/mod_Char_table.html).
+# For a live demo of car charectaristics, you can check out  [this Car Information Table](https://23w-gbac.github.io/MOE350/code(scripts)/Char_tables.html). or [this one](https://23w-gbac.github.io/MOE350/code(scripts)/mod_Char_table.html).
 
 
 ![](Colored_Images/PHOTO/German_Cars.jpg)
 
 ## 🚀 Let's embark on a thrilling journey through the realm of German automotive excellence, exploring the most powerful cars that define precision, speed, and engineering mastery! 🌟
 
-### Welcome to my repository showcasing the **MOST POTENT** cars from prominent German automotive brands! 🚗💨 Explore the sheer power, precision, and performance of high-performance vehicles crafted by these renowned manufacturers.
+## Welcome to my repository showcasing the **MOST POTENT** cars from prominent German automotive brands! 🚗💨 Explore the sheer power, precision, and performance of high-performance vehicles crafted by these renowned manufacturers.
 
 
 ## The Strongest [👉BMW👈](Cars_Brands/BMW.md) Cars
