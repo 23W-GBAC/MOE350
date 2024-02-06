@@ -1,7 +1,4 @@
-<div style="background-image: url('Colored_Images/road-forest.jpg'); background-size: cover; padding: 20px;">
-    <h1>mohammadmasry's Car Enthusiast Repository</h1>
-    <!-- Rest of your content goes here -->
-</div>
+
 # mohammadmasry's Car Enthusiast Repository
 
 Passionate about German Made Cars and open to collaborations on innovative projects related to them! Reach me at: [moe.al.my@gmail.com](mailto:moe.al.my@gmail.com)
