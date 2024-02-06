@@ -1,47 +1,71 @@
-# mohammadmasry's Car Enthusiast Repository
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>mohammadmasry's Car Enthusiast Repository</title>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>@mohammadmasry's Car Enthusiast Repository</h1>
+            <p>Passionate about German Made Cars and open to collaborations on innovative projects related to them! Reach me at: <a href="mailto:moe.al.my@gmail.com">moe.al.my@gmail.com</a></p>
+        </header>
 
-Passionate about German Made Cars and open to collaborations on innovative projects related to them! Reach me at: [moe.al.my@gmail.com](mailto:moe.al.my@gmail.com)
+        <section class="main-section">
+            <h2>Most Powerful German Cars: A Repository for Car Enthusiasts</h2>
+            <img src="Colored_Images/PHOTO/German_Cars.jpg" alt="German Cars Image">
+            <p>Welcome to my repository showcasing the most potent cars from prominent German automotive brands! Explore the sheer power, precision, and performance of high-performance vehicles crafted by these renowned manufacturers.</p>
+        </section>
 
-## Most Powerful German Cars: A Repository for Car Enthusiasts
+        <section class="car-characteristics">
+            <h2>Car Characteristics</h2>
+            <p>Explore detailed characteristics of German cars: <a href="https://23w-gbac.github.io/MOE350/code(scripts)/mod_Char_table.html">Car Characteristics</a></p>
+        </section>
 
-![German Cars Image](Colored_Images/PHOTO/German_Cars.jpg)
+        <!-- Add sections for each car brand with links and descriptions -->
 
-Welcome to my repository showcasing the most potent cars from prominent German automotive brands! Explore the sheer power, precision, and performance of high-performance vehicles crafted by these renowned manufacturers.
+        <section class="bmw-section">
+            <h2>The Strongest <a href="Cars_Brands/BMW.md">👉BMW👈</a> Cars</h2>
+            <p><a href="Cars_Characteristics/bmw_car_characteristics.md">Table performance metrics of BMW Cars</a></p>
+            <!-- Add more details or images as needed -->
+        </section>
 
-## Car Characteristics
+        <section class="audi-section">
+            <h2>The Strongest <a href="Cars_Brands/Audi.md">👉AUDI👈</a> Cars</h2>
+            <p><a href="Cars_Characteristics/Audi_car_charectaristics.md">Table of performance metrics of AUDI Cars</a></p>
+            <!-- Add more details or images as needed -->
+        </section>
 
-Explore detailed characteristics of German cars: [Car Characteristics](https://23w-gbac.github.io/MOE350/code(scripts)/mod_Char_table.html).
+        <section class="mercedes-section">
+            <h2>The Strongest <a href="Cars_Brands/Mercedes.md">👉MERCEDES-AMG👈</a> Cars</h2>
+            <p><a href="Cars_Characteristics/Mercedes_car_characteristics.md">Table of performance metrics of MERCEDES_AMG Cars</a></p>
+            <!-- Add more details or images as needed -->
+        </section>
 
-## The Strongest [👉BMW👈](Cars_Brands/BMW.md) Cars
-[Table performance metrics of BMW Cars](Cars_Characteristics/bmw_car_characteristics.md)
+        <section class="porsche-section">
+            <h2>The Strongest <a href="Cars_Brands/Porsche.md">👉PORSCHE👈</a> Cars</h2>
+            <p><a href="Cars_Characteristics/Porsche_car_charactaristics.md">Table of performance metrics of PORSCHE Cars</a></p>
+            <!-- Add more details or images as needed -->
+        </section>
 
-Discover the epitome of automotive excellence with the BMW powerhouse lineup, where precision engineering and high-performance converge to redefine driving experiences. From luxurious sedans to dynamic SUVs, BMW's strongest models seamlessly integrate cutting-edge technology, potent engines, and aerodynamic designs. Join us on a journey through some of the most captivating BMW cars that have left an indelible mark on enthusiasts worldwide.
+        <section class="contributions">
+            <h2>Contributions Welcome</h2>
+            <p>Passionate about powerful German cars? Contributions, reviews, insights, or captivating car photography focusing on these high-performance vehicles are encouraged! Share your love and knowledge of these German automotive marvels.</p>
+        </section>
 
-## The Strongest [👉AUDI👈](Cars_Brands/Audi.md) Cars
-[Table of performance metrics of AUDI Cars](Cars_Characteristics/Audi_car_charectaristics.md)
-
-Explore the world of Audi's powerhouse vehicles in this detailed overview. Renowned for precision engineering and performance-driven designs, Audi's strongest models seamlessly blend cutting-edge technology, high-performance engines, and sophisticated aesthetics. From the sleek Audi RS7 Sportback to the iconic R8 V10 Performance and the versatile Audi SQ5, each car offers a unique combination of power, refinement, and driving pleasure. Dive into this captivating showcase of Audi's high-performance lineup and discover the fusion of elegance and raw automotive power.
-
-## The Strongest [👉MERCEDES-AMG👈](Cars_Brands/Mercedes.md) Cars
-[Table of performance metrics of MERCEDES_AMG Cars](Cars_Characteristics/Mercedes_car_characteristics.md)
-
-Embark on a journey through the pinnacle of automotive engineering with Mercedes-AMG's powerhouse lineup. Renowned for seamlessly merging high-performance with luxury, these vehicles embody the epitome of precision, power, and sophistication. Let's explore some of the formidable Mercedes-AMG cars that have captivated enthusiasts worldwide.
-
-## The Strongest [👉PORSCHE👈](Cars_Brands/Porsche.md) Cars
-[Table of performance metrics of PORSCHE Cars](Cars_Characteristics/Porsche_car_charactaristics.md)
-
-Take a deep dive into the epitome of precision engineering and high-performance with Porsche's powerhouse lineup. Renowned for iconic sports cars, each model stands as a formidable force in the automotive world, harmonizing cutting-edge technology, potent engines, and sleek designs to deliver enthralling driving experiences. Let's uncover some of the strongest Porsche cars that have left an indelible mark on enthusiasts worldwide.
-
-## Contributions Welcome
-
-Passionate about powerful German cars? Contributions, reviews, insights, or captivating car photography focusing on these high-performance vehicles are encouraged! Share your love and knowledge of these German automotive marvels.
-
-## Automation
-
-Explore automation solutions and explanations:
-
-- [Brief Explanation](Automation/Automation.md)
-- [Automating the Transformation of Colored Images to Black and White](Automation/A1.md)
-- [Exploring Solutions for Automating German Car Image Transformation](Automation/A2.md)
-- [Cost-Benefit Analysis](Automation/A4.md)
-- [Final Solution](Automation/A3.md)
+        <section class="automation">
+            <h2>Automation</h2>
+            <p>Explore automation solutions and explanations:</p>
+            <ul>
+                <li><a href="Automation/Automation.md">Brief Explanation</a></li>
+                <li><a href="Automation/A1.md">Automating the Transformation of Colored Images to Black and White</a></li>
+                <li><a href="Automation/A2.md">Exploring Solutions for Automating German Car Image Transformation</a></li>
+                <li><a href="Automation/A4.md">Cost-Benefit Analysis</a></li>
+                <li><a href="Automation/A3.md">Final Solution</a></li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
