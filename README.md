@@ -1,20 +1,16 @@
-### 👋 Hi, I’m @mohammadmasry
-### 👀 I’m interested in German Made Cars
-### 💞️ Open to collaborations on innovative projects related to German cars! 
-### 📫 How to reach me: moe.al.my@gmail.com
+###  Hi, I’m @mohammadmasry
+###  I’m interested in German Made Cars
+###  Open to collaborations on innovative projects related to German cars! 
+###  How to reach me: moe.al.my@gmail.com
 
 # 🏎️ Most Powerful German Cars: A Repository for Car Enthusiasts 
 
-# Car Information Table
-
-## For a live demo of car charectaristics, you can check out  [this Car Information Table](https://23w-gbac.github.io/MOE350/code(scripts)/Char_tables.html). or [this one](https://23w-gbac.github.io/MOE350/code(scripts)/mod_Char_table.html).
-
-
 ![](Colored_Images/PHOTO/German_Cars.jpg)
 
-## 🚀 Let's embark on a thrilling journey through the realm of German automotive excellence, exploring the most powerful cars that define precision, speed, and engineering mastery! 🌟
-
 ### Welcome to my repository showcasing the **MOST POTENT** cars from prominent German automotive brands! 🚗💨 Explore the sheer power, precision, and performance of high-performance vehicles crafted by these renowned manufacturers.
+
+
+## [ Car Charectaristics](https://23w-gbac.github.io/MOE350/code(scripts)/mod_Char_table.html).
 
 
 ## The Strongest [👉BMW👈](Cars_Brands/BMW.md) Cars
@@ -44,6 +40,8 @@ Take a deep dive into the epitome of precision engineering and high-performance 
 ### Contributions Welcome:
 Passionate about powerful German cars? **CONTRIBUTIONS**, reviews, insights, or captivating car photography focusing on these high-performance vehicles are encouraged! Share your love and knowledge of these German automotive marvels.
 
-# [Automation](Automation/Automation.md)
-In the realm of my project centered around automobiles, I encountered a noteworthy challenge – the color scheme of the images within the project did not align with my artistic preferences. This discrepancy inspired me to proactively seek a remedy for this issue. In response, I undertook the task of [Automating](Automation/Automation.md) the transformation of these initially unsatisfactory colored images into a more refined and aesthetically pleasing black and white format. This decision not only resonated with my individual taste but also brought about a cohesive and unified visual style across the entirety of my image collection. The custom script that I meticulously crafted stands as a sophisticated solution, seamlessly orchestrating the conversion from color to black and white. The result is an elevated visual experience that harmonizes with the thematic essence of my project on automobiles
-
+###Automation: [Brief Explanation](Automation/Automation.md)
+[Automating the Transformation of Colored Images to Black and White](Automation/A1.md)
+[Exploring Solutions for Automating German Car Image Transformation](Automation/A2.md)
+[Cost-Benefit Analysis](Automation/A4.md)
+[Final Solution](Automation/A3.md)
