@@ -41,7 +41,12 @@ Take a deep dive into the epitome of precision engineering and high-performance 
 Passionate about powerful German cars? **CONTRIBUTIONS**, reviews, insights, or captivating car photography focusing on these high-performance vehicles are encouraged! Share your love and knowledge of these German automotive marvels.
 
 ###Automation: [Brief Explanation](Automation/Automation.md)
+
 [Automating the Transformation of Colored Images to Black and White](Automation/A1.md)
+
 [Exploring Solutions for Automating German Car Image Transformation](Automation/A2.md)
+
 [Cost-Benefit Analysis](Automation/A4.md)
+
 [Final Solution](Automation/A3.md)
+
